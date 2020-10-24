@@ -4,7 +4,8 @@ In this tutorial we can use the Pytorchs efficient PCA implementation for perfor
 Principal component Analysis aids towards meaningful inference of important features of data samples, especially when the given data set of samples is drawn from a homogenous population. Here we use PCA to project data into a lower dimension and also project it back to its original dimension. 
 
 ## Prerequisites 
-Familiarity with topics in Linear Algebra such as matrix multiplication is a must, good to know concepts such as Singular value decomposition. Familiarity with Python will be needed.
+Familiarity with topics in Linear Algebra such as matrix multiplication is a must, good to know concepts such as Singular value decomposition. Familiarity with Python will be needed. 
 
 ## What it does
-In this tutorial we can use the Pytorchs efficient PCA implementation for performing data compression by retaining essential features of an Image. After image compression, we will construct the original image back, Yes there will be some data loss when we reconstruct. We will visualize the newly constructed image after varying the compression parameter or number of principal components.
+In this tutorial we can use the Pytorchs efficient PCA implementation for performing data compression by retaining essential features of an Image. After image compression, we will construct the original image back, Yes there will be some data loss when we reconstruct. We will visualize the newly constructed image after varying the compression parameter or number of principal components. Lets get started! reccomend a virtual environment setting,
+To read about creating a virtual environemnt https://docs.python.org/3/library/venv.html
